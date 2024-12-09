@@ -3,7 +3,7 @@ E commerce website
 # Project Title
 
 ## Description
-A responsive e commerce website with differenr options like shop, about, contact, shopping cart etc 
+A responsive e commerce website with different options like shop, about, contact, shopping cart etc Currently working on the backend of the project . Stay tuned for the future advancements! 
 
 ## Features
 - Responsive website
