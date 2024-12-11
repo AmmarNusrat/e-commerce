@@ -7,7 +7,6 @@ This is a e commerce website for a handicraft store , where you can shop and vie
 ## Sections
 - 1: Responsive Home Page Design.
 - 2: Shop Page & Single Product Page.
-- 3: Blog Page.
-- 4: About Page.
-- 5: Contact Us.
-- 6: Ecommerce Shopping Cart.
+- 3: About Page.
+- 4: Contact Us.
+- 5: Ecommerce Shopping Cart.
