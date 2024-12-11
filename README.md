@@ -1,21 +1,25 @@
-# e-commerce
-E commerce website
-# Project Title
+# Ecommerce-Website-With-HTML-CSS-JavaScript
 
-## Description
-A responsive e commerce website with different options like shop, about, contact, shopping cart etc Currently working on the backend of the project . Stay tuned for the future advancements! 
+## About this website
+LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
 
-## Features
-- Responsive website
-- shopping page
 
-## Usage
-Download the zip file
-Run the project on your compiler
+- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
+- Completely For Beginners.
+- Multipage Ecommerce Website Project.
+- Best Beginner Friendly Free Course On YouTube.
+- Learn How to build amazing professional and responsive websites.
+- Learn the fundamentals of web design.
+- Modern CSS, including flexbox and CSS Grid for layout.
+- Modern CSS techniques to create stunning designs and effects.
+- How to use common components and layout patterns for professional website design and development.
+- Advanced responsive design using media queries.
+- And Many More.
 
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+## Sections
+- Part1: Responsive Home Page Design.
+- Part2: Shop Page & Single Product Page.
+- Part3: Blog Page.
+- Part4: About Page.
+- Part5: Contact Us.
+- Part6: Ecommerce Shopping Cart.
